@@ -1,5 +1,5 @@
-// partner 1 challenge stack
-class stack {
+// partner 1 challenge
+class Stack {
   constructor() {
     this.stack = [];
   }
